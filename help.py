@@ -10,7 +10,7 @@ soursce = '''
 **Sedthon source is working ⚡
 Dev : 𝙩𝙤𝙥𝙖𝙘
 Dev : @G_5_G
-Source Ch : @li4xx**
+Source Ch : @li4xx
 -- -- -- -- -- -- -- -- --
 '''
 trans = '''
